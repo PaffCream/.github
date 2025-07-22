@@ -10,3 +10,4 @@
 - Steam 账号租用系统 (2025.3至今)
   - https://game.ddxiaoyu.top
   - https://game.c4play.com
+  - https://steamvip.ltd
